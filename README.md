@@ -86,7 +86,7 @@ IBM SPSS Statistics was used for the primary analysis.
 
 N = 675. R = .448, R² = .200, adjusted R² = .196, F(4, 670) = 41.960, p < .001.
 
-H1 was not supported. H2 was supported: holding the other variables constant, each one-position increase in the ranking gap was associated with approximately 195 fewer spectators.
+H1 was not supported. H2 was supported in the full-season sample: holding the other variables constant, each one-position increase in the ranking gap was associated with approximately 195 fewer spectators.
 
 ## Repository files
 
